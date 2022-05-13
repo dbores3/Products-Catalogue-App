@@ -35,7 +35,7 @@ $light-color: lighten(desaturate($base-color, 50%), 12.5%);
   line-height: 2;
 }
 
-/**/
+/*Button to sort by price high-low or low-high*/
 .sort-by{
   padding: 0.8rem 1.1rem;
   min-width: 4.5rem;
@@ -53,35 +53,6 @@ $light-color: lighten(desaturate($base-color, 50%), 12.5%);
   width: 200px;
 }
 
-// Override Bootstrap's pagination styles
-/*ul.pagination {
-  margin-top: 0;
-  margin-bottom: 0;
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-
-  li.page-item.active {
-    a.page-link {
-      color: saturate(darken($base-color, 55%), 5%) !important;
-      background-color: saturate(lighten($base-color, 6.5%), 3.5%) !important;
-      border-color: $base-color !important;
-    }
-  }
-
-  a.page-link {
-    padding: 0.8rem 1.1rem;
-    min-width: 4.5rem;
-    text-align: center;
-    box-shadow: none !important;
-    border-color: $base-color !important;
-    color: saturate(darken($base-color, 35%), 15%);
-    font-weight: 800;
-    font-size: 1rem;
-
-    &:hover {
-      background-color: $light-color;
-    }
-  }
-}*/
 
 // Override Bootstrap's pagination styles
 ul.pagination {

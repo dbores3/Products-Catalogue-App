@@ -10,7 +10,7 @@ class ProductCard extends Component {
 
     return (
       <Fragment>
-        <div className="col-sm-6 col-md-4 country-card ">
+        <div className="col-md-6 col-lg-5 col-xl-4">
           <div className="product-card-container rounded border my-5 flex-row align-items-center p-0 bg-light">
             <div className="h-100 position-relative border-gray border-right px-2 bg-white rounded-left">
               <img

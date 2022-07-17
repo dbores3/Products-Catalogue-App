@@ -1,8 +1,8 @@
-# Boozt Full-Stack Module
+# Products Catalogue App
 ## _Product Listing & Ordering_
 
 
-Boozt Full-Stack Module is a module in charge of displaying a list of products from the Database, paginate them & order them by their price. Powered with PHP & ReactJS. In the PHP's Back-End I chose OOP over scripting so the code is easier to read & frameworks like Symfony or Laravel make extensive use of object-oriented mechanisms.
+Products Catalogue App is a module in charge of displaying a list of products from the Database, paginate them & order them by their price. Powered with PHP & ReactJS. In the PHP's Back-End I chose OOP over scripting so the code is easier to read & frameworks like Symfony or Laravel make extensive use of object-oriented mechanisms.
 The project is separated into the fronted(React) and the API(PHP).
 
 ## Features
@@ -13,7 +13,7 @@ The project is separated into the fronted(React) and the API(PHP).
 
 ## Tech
 
-Boozt Module uses a number of open source projects to work properly:
+Products Catalogue App uses a number of open source projects to work properly:
 
 - [Javascript](https://www.javascript.com/) - Programming language
 - [ReactJS](https://reactjs.org/) - Javascript Library for building interfaces
@@ -25,7 +25,7 @@ Boozt Module uses a number of open source projects to work properly:
 
 ## Installation
 
-Boozt Module requires NPM/Yarn, PHP & Mysql/MariaDB to run.
+Products Catalogue App requires NPM/Yarn, PHP & Mysql/MariaDB to run.
 
 Serve the Back-End's code, so the React can fetch the data from it.
 
@@ -44,7 +44,7 @@ npm start
 
 ## Plugins
 
-Boozt Full-Stack module is currently extended with the following plugins.
+Products Catalogue App is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
 
 | Plugin | URL |
